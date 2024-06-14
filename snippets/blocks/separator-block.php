@@ -1,3 +1,3 @@
-<hr class="border-solid border-b-none" />
+<hr class="separator-block" />
 
 <?php
